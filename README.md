@@ -6,7 +6,8 @@ This repository contains the implementation of **Edit-GRPO**, a reinforcement le
 
 Unlike traditional editors that focus on initial injection, Edit-GRPO serves as a **Post-Editing Refinement** stage. It leverages **Anchor-Generalization Training (AGT)** and **Policy Gradient Alignment Advantage (PGAA)** to smooth the semantic manifold and enhance generalization.
 
-![](C:\Users\29923\Desktop\ICML2026投稿文件\main-structure.jpg)
+![main-structure](https://github.com/user-attachments/assets/955a7214-dc27-4278-b240-fcd57b55ec27)
+
 
 ## 🛠 Prerequisites: The Two-Stage Paradigm
 
