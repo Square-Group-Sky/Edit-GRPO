@@ -20,8 +20,6 @@
 #   - Each sample has its own prompt, pre-assigned uid groups samples
 #   - Data must include "uid" in non_tensor_batch to preserve grouping
 #   - Optionally include "is_q1" bool array for explicit q1 marking
-#
-# Tested with: Qwen3-8B on GSM8K-style math reasoning tasks.
 
 set -x
 
